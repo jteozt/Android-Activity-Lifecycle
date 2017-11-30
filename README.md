@@ -1,9 +1,9 @@
 # Intents
-ud851-Exercises/Lesson04a-Starting-New-Activities/T04a.03-Solution-PassingDataBetweenActivities/
+See /Lesson04a-Starting-New-Activities/T04a.03-Solution-PassingDataBetweenActivities/
 ud851-Exercises/Lesson04b-Webpages-Maps-and-Sharing
 
 # Activity Lifecycle
-See Android-Activity-Lifecycle/Lesson05a-Android-Lifecycle/
+See /Lesson05a-Android-Lifecycle/
 
 
 # Toy App Exercise Repo
